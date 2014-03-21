@@ -1,0 +1,8 @@
+name: StaffLogin
+version: 1.1.0
+main: br.AtomGamers.StaffLogin.SLogin
+commands:
+  stafflogin:
+    description: comando do plugin para login.
+  staffregister:
+    description: comando do plugin para registro.
